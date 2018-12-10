@@ -1,5 +1,10 @@
 
- <h1 style="color: red;">Rapport du  10/12/18 de Kilian COLLIE:</h1>
+ <h1>Rapport du  10/12/18 de Kilian COLLIE:</h1>
+ 
+ <style type="text/css">
+      h1 { color: red; }  
+  
+    </style>             
 <img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
 
 
