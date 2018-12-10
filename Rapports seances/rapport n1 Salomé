@@ -1,0 +1,3 @@
+Durant cette première séance, nous avons fait le cahier des charges et nous avons essayé de plannifié nos séances. 
+Ensuite, nous avons utiliser le module rtc (module pour donner l'heure en temps réel). D'abord, j'ai essayé d'afficher l'heure sur le moniteur. Dans le programme, j'ai utilisé une librairie qui permet d'afficher certaines variables comme les secondes, les minutes, les heures, les jours, etc... Ce qui m'a permis d'afficher la date et l'heure sur le moniteur.
+Ensuite, nous avons essayé de l'afficher sur un écran LCD. 
