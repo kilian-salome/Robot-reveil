@@ -8,7 +8,7 @@
 
 
 <h2>
-Premiere séance;
+Premiere séance
 </h2>
 <p>
   
