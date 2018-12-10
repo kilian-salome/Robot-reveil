@@ -12,9 +12,11 @@ Premiere séance;
   
 <h3>L'avancement du projet:</h3>  
 Dans cette séance nous nous sommes interessé a l'avancement du projet c'est a dire:
--comment va t'on se repartir le travail,
--en combien de séances faire chaque parties, 
--et surtout par quoi commencer...
+<ul>
+  <li>comment va t'on se repartir le travail,
+  <li>en combien de séances faire chaque parties, 
+  <li>et surtout par quoi commencer...
+</ul>
 <h3>La plannification du projet:</h3>  
 Tout d'abord j'ai construis le "planning" pendant que mon binome s'occupait de la description du projet.
 Evidemment c'est un projet en binome donc meme si chacun peut avancer de son coté il a fallu que chacun verifie et aide l'autre.
