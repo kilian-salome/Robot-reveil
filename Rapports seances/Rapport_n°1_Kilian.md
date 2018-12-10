@@ -26,7 +26,7 @@ Nous avons d'abord mené des recherches sur ce que le professeur nous avez donn�
 Apres avoir fouillé le web pour des informations, nous avons écris un programme qui permettait de afficher sur le moniteur la date.
 Apres avoir reussi, nous avons essayé de l'afficher sur un ecran LCD. Meme si le crenaux de 3h du projet etait ecoulé j'ai finis les branchements à la maison et pour l'instant on a une date affichée sur un écran!
 
-
+<img src="Robot-reveil/Rapports seances/Images-import/img1.jpg" alt="voir image 1 dans le fichier img-import"/>
   
   
   
