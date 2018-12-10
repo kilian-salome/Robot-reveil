@@ -1,4 +1,6 @@
-
+<html>
+  <head></head>
+  <body>
  <h1>Rapport du  10/12/18 de Kilian COLLIE:</h1>
  
  <style type="text/css">
@@ -34,7 +36,7 @@ Apres avoir reussi, nous avons essayé de l'afficher sur un ecran LCD. Meme si l
 <img src="Images-import/img1.jpg" alt="voir image 1 dans le fichier img-import"/>
   
  
-
+</html></html>
 
 
 
