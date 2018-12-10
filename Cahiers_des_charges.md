@@ -16,6 +16,7 @@
   <li>Ensuite, il faut faire la voiture. Concernant la structure, on peut soit la dessiner sur un logiciel puis l'imprimer en 3D, soit la constuire nous-même. Pour la faire fonctionner, nous allons utiliser des petits moteurs (comme en TD). Pour relier les roues au moteur, il nous faut des suspensions. 
   <li>Finalement, il faut assembler réveil avec la voiture. Nous allons programmer la voiture de sorte à ce qu'elle se mette en marche lorsque le réveil sonne. Le trajet de la voiture est aléatoire. La voiture s'arrête en même tant que l'alarme.
 </ul>
+<img src="img1.jpg" alt="voir planning"/>
 
 <h2>Problèmes potentiels:</h2>
   <ul> 
