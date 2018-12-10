@@ -1,10 +1,7 @@
-<html>
-  <head></head>
-  <body>
+
  <h1>Rapport du  10/12/18 de Kilian COLLIE:</h1>
  
- <style type="text/css">
-      h1 { color: red; }  
+
   
 <img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
 
@@ -35,7 +32,7 @@ Apres avoir reussi, nous avons essayé de l'afficher sur un ecran LCD. Meme si l
 <img src="Images-import/img1.jpg" alt="voir image 1 dans le fichier img-import"/>
   
  
-</html></html>
+
 
 
 
