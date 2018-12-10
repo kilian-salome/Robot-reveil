@@ -2,7 +2,7 @@
   Rapport du  10/12/18 de Kilian COLLIE:
  </h1>
  
-<img src="https://www.google.fr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj8oa-3mJbfAhVFyhoKHaluBTUQjRx6BAgBEAU&url=https%3A%2F%2Fforum.shiftdelete.net%2Fthreads%2Fandroid-en-iyi-takvim-uygulamalari.392154%2F&psig=AOvVaw2hWm8kmJTnN_x1l7zGANMt&ust=1544563192595514" />
+<img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
 
 
 <h2>
