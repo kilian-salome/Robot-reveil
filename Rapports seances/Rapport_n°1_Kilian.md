@@ -18,7 +18,7 @@ Dans cette séance nous nous sommes interessé a l'avancement du projet c'est a 
   <li>et surtout par quoi commencer...
 </ul>
 <h3>La plannification du projet:</h3>  
-Tout d'abord j'ai construis le "planning" pendant que mon binome s'occupait de la description du projet.
+Tout d'abord j'ai construis le "planning" pendant que mon binome s'occupait de la description du projet (Voir Cahier des charges).
 Evidemment c'est un projet en binome donc meme si chacun peut avancer de son coté il a fallu que chacun verifie et aide l'autre.
 Apres avoir pris du temps sur cette etape importante, nous avons donc  commencé la premiere etape: Le fonctionnement du réveil.
 <h3>Le premier pas dans le RTC:</h3>  
