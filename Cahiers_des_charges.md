@@ -17,6 +17,7 @@
   <li>Finalement, il faut assembler réveil avec la voiture. Nous allons programmer la voiture de sorte à ce qu'elle se mette en marche lorsque le réveil sonne. Le trajet de la voiture est aléatoire. La voiture s'arrête en même tant que l'alarme.
 </ul>
 <img src="planning n1.png" alt="voir planning"/>
+<em>(Ceci est le planning numéro 1, celui-ci va surement devoir etre bousculé donc on rajoutera les planning au fur et à mesures des séances)</em>
 
 <h2>Problèmes potentiels:</h2>
   <ul> 
