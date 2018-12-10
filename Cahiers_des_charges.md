@@ -1,6 +1,6 @@
 <h1>Cahiers des charges du projet</h1>
 <p>
-  Concernant l'idée de ce projet, disons que <a href="https://www.youtube.com/watch?v=izWCU4Y61o4">cette vidéo</a> a été la principale source d'inspiration et que cette idée a réveillée en nous la determination qui dormait... 
+  Concernant l'idée de ce projet, disons que <a href="https://www.youtube.com/watch?v=izWCU4Y61o4">cette vidéo</a> a été la principale source d'inspiration et que cette idée a réveillée en nous la determination nécessaire à ce projet... 
   <h2>Robot-réveil: quésako?</h2>
   <ul>
   <li>Ce projet consiste à créer un robot réveil qui s'enfuit lorsqu'il sonne. Il faut ainsi se lever pour l'arrêter. Le robot peut tomber des meubles. Il peut aussi se prendre des murs. Lorsqu'il s'en prend, il recule un peu puis tourne pour changer de direction.
