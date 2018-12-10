@@ -2,7 +2,7 @@
   Rapport du  10/12/18 de Kilian COLLIE:
  </h1>
  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/220px-Arduino_Logo.svg.png" />
+<img src="https://www.google.fr/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj8oa-3mJbfAhVFyhoKHaluBTUQjRx6BAgBEAU&url=https%3A%2F%2Fforum.shiftdelete.net%2Fthreads%2Fandroid-en-iyi-takvim-uygulamalari.392154%2F&psig=AOvVaw2hWm8kmJTnN_x1l7zGANMt&ust=1544563192595514" />
 
 
 <h2>
@@ -15,7 +15,7 @@ Dans cette séance nous nous sommes interessé a l'avancement du projet c'est a 
 -comment va t'on se repartir le travail,
 -en combien de séances faire chaque parties, 
 -et surtout par quoi commencer...
-<h3>La plannification du projet</h3>  
+<h3>La plannification du projet:</h3>  
 Tout d'abord j'ai construis le "planning" pendant que mon binome s'occupait de la description du projet.
 Evidemment c'est un projet en binome donc meme si chacun peut avancer de son coté il a fallu que chacun verifie et aide l'autre.
 Apres avoir pris du temps sur cette etape importante, nous avons donc  commencé la premiere etape: Le fonctionnement du réveil.
