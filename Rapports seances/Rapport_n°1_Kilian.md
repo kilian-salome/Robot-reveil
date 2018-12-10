@@ -29,7 +29,10 @@ Apres avoir reussi, nous avons essayé de l'afficher sur un ecran LCD. Meme si l
 
 <img src="Images-import/img1.jpg" alt="voir image 1 dans le fichier img-import"/>
   
-  
+ <style type="text/css">
+      h1 { color: navy; }  
+      h2 { color: blue; }  
+    </style> 
   
 
 
