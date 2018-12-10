@@ -6,7 +6,6 @@
  <style type="text/css">
       h1 { color: red; }  
   
-    </style>             
 <img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
 
 
