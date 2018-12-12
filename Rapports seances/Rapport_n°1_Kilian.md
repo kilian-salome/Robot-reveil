@@ -30,7 +30,7 @@ Apres avoir reussi, nous avons essayé de l'afficher sur un ecran LCD. Meme si l
 
 
 <img src="Images-import/img1.jpg" alt="voir image 1 dans le fichier img-import"/>
-grace au code suivant:
+<em>Grâce au code suivant:</em>
 <img src="Images-import/code numero1.png" alt="voir image  dans le fichier img-import"/>
  <em>La suite va être de faire un réveil programmable depuis un ordinateur...</em> 
 
