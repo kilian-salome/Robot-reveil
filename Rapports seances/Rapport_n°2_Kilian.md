@@ -24,10 +24,13 @@ De plus pendant a séance on a essayé de changer l'écran qu'on a déjà vers 2
   
   
 
-<img src="Images-import/img1.jpg" alt="voir image 1 dans le fichier img-import"/>
+<img src="Images-import/appli arduino.png" alt="voir image 1 dans le fichier img-import"/>
+
+
 <em>Grâce au code suivant:</em>
-<img src="Images-import/code numero1.png" alt="voir image  dans le fichier img-import"/>
- <em>La suite va être de faire un réveil programmable depuis un ordinateur...</em> 
+
+
+<img src="Images-import/appli arduino code.png" alt="voir image  dans le fichier img-import"/>
 
 
 </p>
