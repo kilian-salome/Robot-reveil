@@ -12,7 +12,7 @@
 <p>
   
 <h3>Création d'une application:</h3>
-Pour gérer notre réveil et pour pour le programmer on pourra utiliser notre téléphone. Le but etant de faire un réveil connecté qui sera donc plus pratique. Pour cela on utilise le site http://appinventor.mit.edu/explore/# 
+Pour gérer notre réveil et pour pour le programmer on pourra utiliser notre téléphone. Le but etant de faire un réveil connecté qui sera donc plus pratique. Pour cela on utilise le site<a href="http://appinventor.mit.edu/explore/# "> App Inventor </a> développé par Google et le MIT. 
 
 APP inventor 2  ON Fait sur le web, puis on génère un QRCODE depuis le web et enfin on scanne le QRCODE sur application compagnon de notre téléphone . Cette application installe une application sur notre téléphone qui exécute notre code. 
  J'ai programmé cette application pendant a séance en regardant quelques tutoriels sur youtube parce que 
