@@ -27,7 +27,12 @@ Ensuite on va faire la partie programmation avec du code. Sur le site la partie 
 <img src="Images-import/appli arduino code.png" alt="voir image  dans le fichier img-import"/>
 
 
-Finalement on génère un QRCODE depuis le web et enfin on scanne le QRCODE sur application compagnon de notre téléphone qu'on vient de téléchargé. Cette application installe directement l'application sur notre téléphone et donc exécute notre code. 
+Finalement on génère un QRCODE depuis le web et enfin on scanne le QRCODE sur application compagnon de notre téléphone qu'on vient de téléchargé. Cette application installe directement l'application sur notre téléphone et donc exécute notre code.
+<em>Depuis l'ordinateur.../em>
+<img src="Images-import/appli arduino QRCODE.png" alt="voir image  dans le fichier img-import"/>
+
+<em>Depuis le téléphone...</em>
+<img src="Images-import/tel appli 2.jpg" alt="voir image  dans le fichier img-import"/>
 
  J'ai programmé cette application pendant la séance en regardant quelques tutoriels sur youtube parce que 
 Pour le moment l'application est une application"test": elle se connecte a notre module Bluetooth et affiche si le téléphone est bien connecté au Bluetooth . 
@@ -41,7 +46,7 @@ On aura donc à la rentrée un réveil totalement programmable qui sonne puisque
 De plus pendant la séance on a essayé de changer l'écran qu'on a déjà vers 2 écrans OLED pour une meilleure résolution pour que notre réveil affiche l'heure mais affiche aussi des yeux lorsque qu'il va s'enfuir. Le robot aura donc un aspect plus sympathique...
  
 <img src="Images-import/tel appli.jpg" alt="voir image  dans le fichier img-import"/>
-<img src="Images-import/tel appli 2.jpg" alt="voir image  dans le fichier img-import"/>
+
 </p>
 
 
