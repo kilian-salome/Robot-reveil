@@ -28,10 +28,15 @@ Ensuite on va faire la partie programmation avec du code. Sur le site la partie 
 
 
 Finalement on génère un QRCODE depuis le web et enfin on scanne le QRCODE sur application compagnon de notre téléphone qu'on vient de téléchargé. Cette application installe directement l'application sur notre téléphone et donc exécute notre code.
-<em>Depuis l'ordinateur.../em>
+<em>Depuis l'ordinateur...</em>
+
+
 <img src="Images-import/appli arduino QRCODE.png" alt="voir image  dans le fichier img-import"/>
 
 <em>Depuis le téléphone...</em>
+
+
+
 <img src="Images-import/tel appli 2.jpg" alt="voir image  dans le fichier img-import"/>
 
  J'ai programmé cette application pendant la séance en regardant quelques tutoriels sur youtube parce que 
