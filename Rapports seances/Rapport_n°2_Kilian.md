@@ -28,6 +28,8 @@ Ensuite on va faire la partie programmation avec du code. Sur le site la partie 
 
 
 Finalement on génère un QRCODE depuis le web et enfin on scanne le QRCODE sur application compagnon de notre téléphone qu'on vient de téléchargé. Cette application installe directement l'application sur notre téléphone et donc exécute notre code.
+
+
 <em>Depuis l'ordinateur...</em>
 
 
