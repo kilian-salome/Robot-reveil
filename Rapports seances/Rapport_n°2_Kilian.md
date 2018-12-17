@@ -40,7 +40,8 @@ Il va donc falloir travailler pendant les vacances pour continuer et finir cette
 On aura donc à la rentrée un réveil totalement programmable qui sonne puisque mon binôme doit gérer le buzzer pendant les vacances.
 De plus pendant la séance on a essayé de changer l'écran qu'on a déjà vers 2 écrans OLED pour une meilleure résolution pour que notre réveil affiche l'heure mais affiche aussi des yeux lorsque qu'il va s'enfuir. Le robot aura donc un aspect plus sympathique...
  
-
+<img src="Images-import/tel appli.jpg" alt="voir image  dans le fichier img-import"/>
+<img src="Images-import/tel appli 2.jpg" alt="voir image  dans le fichier img-import"/>
 </p>
 
 
