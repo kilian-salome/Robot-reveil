@@ -11,17 +11,17 @@ Je pensais qu'avec ce code le buzzer s'arrêterait lorsque j'appuie sur le bouto
 </br>
 Le montage:
 </br>
-<img src="Images-import/montage buzzer.png" alt="voir image  dans le fichier img-import"/>
+<img src="Images-import/montage buzzer.jpg" alt="voir image  dans le fichier img-import"/>
 
 
 <h2>Ecran OLED</h2>
 Nous avons choisi d'utiliser un écran oled plutôt que l'écran lcd. J'ai réussi à afficher du texte. Je voulais afficher le texte en blanc mais ça n'a pas fonctionné. Il me semble que les seules couleurs possibles pour cet écran sont le bleu, le orange et le noir.
 </br>
-<img src="Images-import/ecran oled texte.png" alt="voir image  dans le fichier img-import"/>
+<img src="Images-import/ecran oled texte.jpg" alt="voir image  dans le fichier img-import"/>
 </br>
 Ensuite, avec Kilian, nous avons essayé de dessiner un oeil sur l'écran (nous voulons faire deux yeux à notre réveil). On a d'abord essayé de dessiner l'oeil nous même en dessiner une forme (rectangle arrondi) mais le résultat n'était pas satisfaisant. Nous avons finalement utilisé un code trouvé sur internet, voici le résultat obtenu: 
 </br>
-<img src="Images-import/ecran oled oeil.png" alt="voir image  dans le fichier img-import"/>
+<img src="Images-import/ecran oled oeil.jpg" alt="voir image  dans le fichier img-import"/>
 
 
 
