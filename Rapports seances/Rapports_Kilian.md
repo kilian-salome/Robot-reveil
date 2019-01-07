@@ -139,13 +139,13 @@ en Arduino puisque nous n'avons pas vu ce point en cours.
 En effet je ne savais pas quoi mettre comme type puisque nous travaillons dans notre projet avec des types "structures temps"(struct ts) importés d'une bibliothèque, c'est donc un type assez complexe! De plus il fallait savoir quoi renvoyer de la fonction et il fallait 
 aussi faire attention a que les variables présent dans les fonctions marchent dans le main... Ce travail qui était en apparence assez simple puisqu'il s'agit il s'agissait juste de formalités a été finalement un peu plus dur que prévu.
 Je vous joins ici le code du reveil tel avec les fonctions:
-<a href="Images-import/projet_2.ino"/>
-En outre j'ai aussi rajouté une "option" qui consiste a mettre en veille le reveil l'affichage du reveil sauf lorsque on passe la main au dessus du capteur de distance. Cela a un effet assez sympathique visuellement! J'ai crée une chaine YouTube pour mettre mes videos... voyez donc par vous-meme: <a href="https://www.youtube.com/watch?v=c7SeHy4BcdA"/>
+<a href="Images-import/projet_2.ino">
+En outre j'ai aussi rajouté une "option" qui consiste a mettre en veille le reveil l'affichage du reveil sauf lorsque on passe la main au dessus du capteur de distance. Cela a un effet assez sympathique visuellement! J'ai crée une chaine YouTube pour mettre mes videos... voyez donc par vous-meme: https://www.youtube.com/watch?v=c7SeHy4BcdA
 
 J'ai rencontré quelques problèmes puisque ayant voyagé j'ai dû transporter mon Arduino et que comme nous l'avons vu en cours il y a beaucoup de branchement à faire sur: l'écran LCD + le Bluetooth + le capteur de distance + le module RTC ; ainsi les branchements ont été dérangé par le voyage donc quand je relancais le code plus rien ne marchait.Il a fallu donc à plusieurs reprises débrancher puis rebrancher le tout et ce fut assez long (Cela m'a fait perdre un certain temps).
 Evidemment pendant les vacances j'ai aussi réfléchi aux problèmes qu'on allait avoir en faisant notre robot et celui des branchements: en effet il faut que ses branchement soit assez résistant aux chocs puisque notre robot va être assez "casse-cou" donc il va falloir bien souder puis bien isolé avec un materiau absorbant comme de la mousse par exemple...
 L'objectif de la prochaine séance de TD va être d'assembler nos travaux des vacances puis de faire le montage électronique des écrans, du buzzer et du réveil qu'on a déjà. Puis viendra la partie robot...
-Video bonus:Test pour savoir si le reveil se declenche bien... <a href="https://www.youtube.com/watch?v=xC-7eWVmUok"/>
+Video bonus:Test pour savoir si le reveil se declenche bien... https://www.youtube.com/watch?v=xC-7eWVmUok"
 
  <h1>Rapport du  07/01/19 de Kilian COLLIE:</h1>
    
