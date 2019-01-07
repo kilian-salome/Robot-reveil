@@ -13,8 +13,9 @@ Le montage:
 
 
 <h2>Ecran OLED</h2>
-Nous avons choisi d'utiliser un écran oled plutôt que l'écran lcd. J'ai réussi à afficher du texte. Je voulais afficher le texte en blanc mais ça n'a pas fonctionné. Il me semble que les seules couleurs possibles pour cet écran sont le bleu, le orange et le noir.
-
+Nous avons choisi d'utiliser un écran oled plutôt que l'écran lcd. J'ai réussi à afficher du texte. Je voulais afficher le texte en blanc mais ça n'a pas fonctionné. Il me semble que les seules couleurs possibles pour cet écran sont le bleu, le orange et le noir. 
+</br>
+Ensuite, avec Kilian, nous avons essayé de dessiner un oeil sur l'écran (nous voulons faire deux yeux à notre réveil). On a d'abord essayé de dessiner l'oeil nous même en dessiner une forme (rectangle arrondi) mais le résultat n'était pas satisfaisant. Nous avons finalement utilisé un code trouvé sur internet, voici le résultat obtenu: 
 
 
 
