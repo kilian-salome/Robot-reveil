@@ -160,6 +160,8 @@ Video bonus:Test pour savoir si le reveil se declenche bien... https://www.youtu
 
 On a donc commencé par voir ce que chacun avait fait puis on a modifié le code du buzzer puisque celui ne fonctionnait pas très bien. Finalement nous sommes arrivés à ce code qui pemet de faire fonctionner le buzzer.
 <img src="Images-import/code buzzer.png" alt="voir image  dans le fichier img-import"/>
+
+
 <em> Voir le code complet du buzzer: https://github.com/kilian-salome/Robot-reveil/blob/master/Rapports%20seances/Images-import/buzzer.ino </em>
 
 
