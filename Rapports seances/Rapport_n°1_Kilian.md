@@ -142,4 +142,15 @@ Evidemment pendant les vacances j'ai aussi réfléchi aux problèmes qu'on allai
 L'objectif de la prochaine séance de TD va être d'assembler nos travaux des vacances puis de faire le montage électronique des écrans, du buzzer et du réveil qu'on a déjà. Puis viendra la partie robot...
 
 
+ <h1>Rapport du  07/01/19 de Kilian COLLIE:</h1>
+   
+<img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
 
+<h2>
+ <em>Troizième Séance:</em>
+</h2>
+<p>
+  
+<h3>L'assemblement final:</h3> 
+
+On a donc commencé par voir ce que chacun avait fait puis on a modifié le code du buzzer puisque celui ne fonctionnait pas très bien. Par manque de port sur note Arduino on a voulu debrancher notre ecran LCD pour mettre lecran oled . Cela nous donner acces a plus de port pour brancher par exemple le buzzer. Nous nous somme donc attaqué a lecran OLED: nous avons commencé par comprendre comment cela marchait, puis nous avon essayer d'afficher "12h" . Il a fallu changer la taille de police puisque l'ecriture de "12h" etait trop petit et ne prenait pas le la place de tout l'écran. 
