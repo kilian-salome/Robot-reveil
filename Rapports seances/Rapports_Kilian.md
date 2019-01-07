@@ -160,9 +160,14 @@ Video bonus:Test pour savoir si le reveil se declenche bien... https://www.youtu
 
 On a donc commencé par voir ce que chacun avait fait puis on a modifié le code du buzzer puisque celui ne fonctionnait pas très bien. Finalement nous sommes arrivés à ce code qui pemet de faire fonctionner le buzzer.
 <img src="Images-import/code buzzer.png" alt="voir image  dans le fichier img-import"/>
-Par manque de port sur note Arduino on a voulu debrancher notre ecran LCD pour mettre lecran oled . Cela nous donnera acces a plus de port pour brancher par exemple le buzzer. Nous nous somme donc attaqué a lecran OLED: nous avons commencé par comprendre comment cela marchait, puis nous avon essayer d'afficher "12h" . Il a fallu changer la taille de police puisque l'ecriture de "12h" etait trop petit et ne prenait pas toute la place de tout l'écran. 
-Ensuite j'ai decouvert la fonction .............. qui permet de dessiner un pixel particulier. Notre but etant d'afficher des yeux, on a d'abord pensé a dessiner des yeux de nous meme.. Connaissant notre talent artistique plutot médiocre, j'ai utilisé http://javl.github.io/image2cpp/ qui est un site qui convertit une image en liste de pixel. En effet nous voulions le dessiner avec des rectangles arrondis ce qui fut quasi impossible. Ensuite on a importé cette liste de pixels dans un programme pour tester.<em> Voir capture d'écran</em><img src="Images-import/capture d’écran.png" alt="voir image  dans le fichier img-import"/>
+<em> Voir le code complet du buzzer: https://github.com/kilian-salome/Robot-reveil/blob/master/Rapports%20seances/Images-import/buzzer.ino </em>
 
-On a obtenu un resultat qu'on va devoir améliorer:
+
+Par manque de ports sur notre carte Arduino on a voulu débrancher notre écran LCD pour mettre l'écran OLED. Cela nous donnera accès à plus de ports pour brancher par exemple le buzzer. Nous nous sommes donc attaqué a l'écran OLED: nous avons commencé par comprendre comment cela marchait, puis nous avon essayer d'afficher "12h" . Il a fallu changer la taille de police puisque l'ecriture de "12h" etait trop petit et ne prenait pas toute la place de tout l'écran. 
+Ensuite j'ai decouvert la fonction "display.drawBitmap" qui permet de dessiner un pixel particulier. Notre but étant d'afficher des yeux, on a d'abord pensé a dessiner des yeux de nous meme.. Connaissant notre talent artistique plutot médiocre, j'ai utilisé http://javl.github.io/image2cpp/ qui est un site qui convertit une image en liste de pixel. En effet nous voulions le dessiner avec des rectangles arrondis ce qui fut quasi impossible. Ensuite on a importé cette liste de pixels dans un programme pour tester.<em> Voir capture d'écran</em><img src="Images-import/capture d’écran.png" alt="voir image  dans le fichier img-import"/>
+
+On a obtenu un résultat qu'on va devoir améliorer:
 
 <img src="Images-import/photooeil.jpg.jpg" alt="voir image  dans le fichier img-import"/>
+
+ <em> Voir le code complet du dessin: https://github.com/kilian-salome/Robot-reveil/blob/master/Rapports%20seances/Images-import/dessin.ino </em>
