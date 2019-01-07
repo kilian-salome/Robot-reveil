@@ -22,7 +22,7 @@ Nous avons choisi d'utiliser un écran oled plutôt que l'écran lcd. J'ai réus
 Ensuite, avec Kilian, nous avons essayé de dessiner un oeil sur l'écran (nous voulons faire deux yeux à notre réveil). On a d'abord essayé de dessiner l'oeil nous même en dessiner une forme (rectangle arrondi) mais le résultat n'était pas satisfaisant. Nous avons finalement utilisé un code trouvé sur internet, voici le résultat obtenu: 
 </br>
 <img src="Images-import/ecran oled oeil.jpg" alt="voir image  dans le fichier img-import"/>
-
-
+</br>
+Nous avons essayé de faire le fond noir et l'oeil en bleu mais nous avons pas encore réussi.
 
 </p>
