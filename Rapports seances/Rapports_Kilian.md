@@ -215,6 +215,10 @@ et donc dessiner un oeil bleu et jaune et assez bizzare.
 
 On va chercher sur Ebay les memes ecrans mais en couleurs puisque ceux ci sont trers repandus et utilisent les meme libraries.
 Au final on veut afficher lorsque le réveil est en veille(cest a dire que personne ne met sa mains devant pour demander l'heure) les 2 ecrans OLED afficheront des yeux qui rendront le reveil pluis vivant... et lorsque l'heure est demandé il affiche sur le premier l'heure et sur le deuxième les minutes. 
+
+<img src="Images-import/afficher heure.jpg">
+
+
 Pour le moment comme on n'arrive pas à connecter 2 écrans on a seulement l'heure.
 
 
