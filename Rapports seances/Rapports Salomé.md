@@ -68,3 +68,19 @@ Nous avons essayé de faire le fond noir et l'oeil en bleu mais nous avons pas e
 
 </p>
 
+ <h1>Rapport du  14/01/19:</h1>
+
+<p>
+ 
+ <h2>écran oled</h2>
+ Durant la dernière séance, nous avions réussi à afficher un oeil mais le résultat n'était pas satisfaisant. D'abord, notre écran possède que 2 couleurs comme ceci: 
+ </br>
+<img src="Images-import/ecran oled.png" alt="voir image  dans le fichier img-import"/>
+</br>
+Grâce à la fonction invertDisplay(bool), on a inversé l'affichage de l'écran. On a donc obtenu un oeil bleu avec le fond noir. Cela rend mieux mais l'oeil est trop petit. On a essayé de changer les dimensions grâce au site http://javl.github.io/image2cpp/. En faisant ça, soit l'oeil ne rentre pas complètement sur l'écran, soit il a de mauvaises proportions et ne ressemble plus vraiment à un oeil. J'ai donc fait en sorte que l'oeil prenne toute la hauteur de l'écran mais je ne pense pas pouvoir faire mieux. 
+</br>
+Nous utilisons un capteur de distance qui affiche l'heure lorsqu'on s'approche à une certaine distance. J'ai donc fait en sorte que l'heure prenne tout l'écran:
+</br>
+<img src="Images-import/ecran oled heure.jpg" alt="voir image  dans le fichier img-import"/>
+</br>
+Je voudrais ensuite que les minutes s'affichent sur le deuxième écran. Cependant,  je ne sais pas s'il est possible de brancher deux écrans oled sur un arduino. Il y a deux branchement à faire pour l'écran et c'est sur des ports par défaut et je n'ai pas trouvé sur internet de moyen de choisir les ports nous même.
