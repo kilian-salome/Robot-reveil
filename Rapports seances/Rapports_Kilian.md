@@ -173,3 +173,41 @@ On a obtenu un résultat qu'on va devoir améliorer:
 <img src="Images-import/photooeil.jpg.jpg" alt="voir image  dans le fichier img-import"/>
 
  <em> Voir le code complet du dessin: https://github.com/kilian-salome/Robot-reveil/blob/master/Rapports%20seances/Images-import/dessin.ino </em>
+ 
+ 
+ 
+  <h1>Rapport du  14/01/19 de Kilian COLLIE:</h1>
+ 
+
+  
+<img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
+
+
+
+<h2>
+ <em>Présentation des projets</em>
+</h2>
+<p>
+
+Pour présenter le projet j'ai essayé de tout scotcher comme me l'avais conseillé Mr Masson. Je ne sais pas si c'est a ca qu'il pensait mais jai tout scotché... ca  a tenu le voyage! 
+
+ensuite jai rajouter le buzzer dans notre code en ajoutant des boucles(voir code). Lors se la compiation plusieurs erreur se sont declarées, en effet comme on la vu en cours le buzzer utilise le  Timer n°2 et il y a donc des conflits de libraries... ,
+Solution simple j'ai trouvé une nouvelle librarie NewTone qui est la meme que la librairie Tone mais sans les conflits. (On l'a juste telechargé sur internet)  . Ensuite il a fallu eteindre le reveil, mainantenant que le buzzer sonne il ne sarretait plus. On a decidé que celui qui utiliserait le revil devra appuyer suer un bouon pour l'eteindre. On a donc rajouter un bouton poussoir comme celui vu en classe. De plus on a integrer dans notre code une variable "cond" (condition pour que le reveil sonne) qui renvoit une valeur (0 ou 1) qui va desactiver la sonnerie et qui va arreteer le reveil. Ensuite il suffira de renvoyere une autre alarme avec le telephone pour que le reveil se reprogramme. 
+
+<h2>
+ <em>Séance de TD</em>
+</h2>
+Durant le séance de Td on a modifié queques petites chose comme la sonnerie de notre reveil qui resemble maintenant a une alarme... ce qui a le don de reveiller facilement!  Ensuite on a continuer l'affichage des yeux sur nos ecran OLED, et la encore il se pose quelques probkemes... comme les entrées poru les ecran sont predefinis (PC5 et PC4) on a des probleme pour connecter 2 ecrans differnets . De plius notre écran n'affiche que soit:
+<ul>
+<li>du noir</li>
+<li>du jaune en haut</li>
+<li>du bleu en bas</li>
+</ul>
+
+et donc dessiner un oeil bleu et jaune et assez bizzare. 
+On va chercher sur Ebay les memes ecrans mais en couleurs puisque ceux ci sont trers repandus et utilisent les meme libraries.
+Au final on veut afficher lorsque le réveil est en veille(cest a dire que personne ne met sa mains devant pour demander l'heure) les 2 ecrans OLED afficheront des yeux qui rendront le reveil pluis vivant... et lorsque l'heure est demandé il affiche sur le premier l'heure et sur le deuxième les minutes. 
+Pour le moment comme on n'arrive pas à connecter 2 écrans on a seulement l'heure.
+
+
+
