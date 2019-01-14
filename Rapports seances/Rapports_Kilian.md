@@ -194,6 +194,10 @@ Pour présenter le projet j'ai essayé de tout scotcher comme me l'avais conseil
 ensuite jai rajouter le buzzer dans notre code en ajoutant des boucles(voir code). Lors se la compiation plusieurs erreur se sont declarées, en effet comme on la vu en cours le buzzer utilise le  Timer n°2 et il y a donc des conflits de libraries... ,
 Solution simple j'ai trouvé une nouvelle librarie NewTone qui est la meme que la librairie Tone mais sans les conflits. (On l'a juste telechargé sur internet)  . Ensuite il a fallu eteindre le reveil, mainantenant que le buzzer sonne il ne sarretait plus. On a decidé que celui qui utiliserait le revil devra appuyer suer un bouon pour l'eteindre. On a donc rajouter un bouton poussoir comme celui vu en classe. De plus on a integrer dans notre code une variable "cond" (condition pour que le reveil sonne) qui renvoit une valeur (0 ou 1) qui va desactiver la sonnerie et qui va arreteer le reveil. Ensuite il suffira de renvoyere une autre alarme avec le telephone pour que le reveil se reprogramme. 
 
+
+<img src="Images-import/rendu global.jpg">
+
+
 <h2>
  <em>Séance de TD</em>
 </h2>
@@ -205,6 +209,8 @@ Durant le séance de Td on a modifié queques petites chose comme la sonnerie de
 </ul>
 
 et donc dessiner un oeil bleu et jaune et assez bizzare. 
+
+
 <img src="Images-import/49831313_580991622342999_8411542811828027392_n.jpg">
 
 On va chercher sur Ebay les memes ecrans mais en couleurs puisque ceux ci sont trers repandus et utilisent les meme libraries.
