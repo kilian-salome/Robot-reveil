@@ -77,7 +77,11 @@ Nous avons essayé de faire le fond noir et l'oeil en bleu mais nous avons pas e
  </br>
 <img src="Images-import/ecran oled.png" alt="voir image  dans le fichier img-import"/>
 </br>
-Grâce à la fonction invertDisplay(bool), on a inversé l'affichage de l'écran. On a donc obtenu un oeil bleu avec le fond noir. Cela rend mieux mais l'oeil est trop petit. On a essayé de changer les dimensions grâce au site http://javl.github.io/image2cpp/. En faisant ça, soit l'oeil ne rentre pas complètement sur l'écran, soit il a de mauvaises proportions et ne ressemble plus vraiment à un oeil. J'ai donc fait en sorte que l'oeil prenne toute la hauteur de l'écran mais je ne pense pas pouvoir faire mieux. 
+Grâce à la fonction invertDisplay(bool), on a inversé l'affichage de l'écran. On a donc obtenu un oeil bleu avec le fond noir. Cela rendait mieux mais l'oeil était trop petit. J'ai essyayé de changer les dimensions grâce au site http://javl.github.io/image2cpp/. En faisant ça, soit l'oeil ne rentre pas complètement sur l'écran, soit il a de mauvaises proportions et ne ressemble plus vraiment à un oeil. J'ai donc fait en sorte que l'oeil prenne toute la hauteur de l'écran mais c'était disgracieux. Finalement, J'ai pris une autre photo d'oeil sur internet et j'ai utilisé le même site pour convertir l'image en byte. En modifiant un peu les dimensions, j'ai obtenu  un résultat satisfaisant:
+</br>
+<img src="Images-import/oeil.jpg" alt="voir image  dans le fichier img-import"/>
+</br>
+
 </br>
 Nous utilisons un capteur de distance qui affiche l'heure lorsqu'on s'approche à une certaine distance. J'ai donc fait en sorte que l'heure prenne tout l'écran:
 </br>
