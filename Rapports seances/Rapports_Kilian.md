@@ -201,7 +201,7 @@ Solution simple j'ai trouvé une nouvelle librarie NewTone qui est la meme que l
 <h2>
  <em>Séance de TD</em>
 </h2>
-Durant le séance de Td on a modifié queques petites chose comme la sonnerie de notre reveil qui resemble maintenant a une alarme... ce qui a le don de reveiller facilement!  Ensuite on a continuer l'affichage des yeux sur nos ecran OLED, et la encore il se pose quelques probkemes... comme les entrées poru les ecran sont predefinis (PC5 et PC4) on a des probleme pour connecter 2 ecrans differnets . De plius notre écran n'affiche que soit:
+Durant le séance de Td on a modifié queques petites chose comme la sonnerie de notre reveil qui resemble maintenant a une alarme... ce qui a le don de reveiller facilement!  Ensuite on a continuer l'affichage des yeux sur nos ecran OLED, et la encore il se pose quelques problemes... comme les entrées pour les ecrans sont predefinis (PC5 et PC4) on a des problèmes pour connecter 2 écrans différents puisqu'il ont le meme "nom" (il existe surement un methode qui pemet de changer le nom d'un écran) . De plus notre écran n'affiche que soit:
 <ul>
 <li>du noir</li>
 <li>du jaune en haut</li>
@@ -225,5 +225,5 @@ Au final on veut afficher lorsque le réveil est en veille(cest a dire que perso
 
 Pour le moment comme on n'arrive pas à connecter 2 écrans on a seulement l'heure.
 
-
+Ensuite j'ai récuperer un ancien projet que je dois démonter pour avoir des moteurs.
 
