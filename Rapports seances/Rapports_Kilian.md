@@ -227,3 +227,17 @@ Pour le moment comme on n'arrive pas à connecter 2 écrans on a seulement l'heu
 
 Ensuite j'ai récuperer un ancien projet que je dois démonter pour avoir des moteurs.
 
+
+<h1>Rapport du  06/01/19 de Kilian COLLIE:</h1>
+   
+<img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
+
+<h2>
+ <em>Travail de vacances</em>
+</h2>
+<p>
+  
+<h3>L'avancement du projet pendant les vacances:</h3> 
+
+
+
