@@ -94,6 +94,6 @@ Je voudrais ensuite que les minutes s'affichent sur le deuxième écran. Cependa
 <h2>Câblage de deux écran OLED sur un arduino</h2>  
 </br>
 L'écan OLED est connecté en utilisant les broches i2c de l'arduino (broches A4 et A5 sur l'arduino nano). Comme expliqué sur ce site, https://github.com/ThingPulse/esp8266-oled-ssd1306/issues/179, pour en utiliser deux sur le même arduino, il faut configurer l'adresse i2c de l'écran. L'adresse étant définie selon le positionnement de la résistance, nous avons déssouder la résistance pour la ressouder à un autre endroit, afin de modifier l'adresse. Un écran a donc l'adresse 0x3C, l'autre 0x3D. J'ai d'abord essayé de faire fonctionner l'écran dont l'adresse a été changer. Seul, il a fonctionné. J'ai ensuite câbler les 2. J'ai rajouté une ligne de code: display.begin(SSD1306_SWITCHCAPVCC, 0x3D);. Cette ligne initialise l'écran avec l'adresse 0x3D. J'ai obtenu le résultat suivant: 
-<img src="Images-import/ecran oled heure.jpg" alt="voir image  dans le fichier img-import"/>
+<img src="Images-import/2yeux.jpg" alt="voir image  dans le fichier img-import"/>
 
 </p>
