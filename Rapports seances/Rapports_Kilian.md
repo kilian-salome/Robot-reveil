@@ -261,5 +261,10 @@ utilisé un capteur de distance déja installé auparavant. tout cela était rei
  
 <img src="Images-import/IMG_20190204_202821.jpg"/>
 
-<em>Video bonus:Test du programme du robot avec les moteurs...</em>
+<em>Video bonus:Test du programme du robot avec les moteurs...
+
 https://www.youtube.com/watch?v=ScZquNIHZiI
+
+et aussi le code pour les moteurs: <img src="Images-import/moteur_ex.ino"/>
+</em>
+
