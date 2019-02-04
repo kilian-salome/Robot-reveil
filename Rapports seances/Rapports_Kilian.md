@@ -237,15 +237,29 @@ Ensuite j'ai récuperer un ancien projet que je dois démonter pour avoir des mo
 </h2>
 <p>
 Pendant les vacances, le professeur m'a preté un mini robot pour tester un programme du robot Reveil. J'ai donc commencé a ecrire un programme qui fait avancer le petit robot, et qui si il y a un obstacxle proche, il recule puis il tourne. Pour cela j'avais  
-utilisé un capteur de distance déja installé auparavant. tout cela était reié a mon arduino (puisque je n'avais pas le cable pour l'arduino preté sur le robot). Après plusieurs téléversement sur ma carte, j'ai du commetre une erreur puisque celle la ne fonctionnait plus. Comme j'éatis en vacances j'ai du attendre la rentrée pour faire "réparer" ma carte par le professeur. Je pense que la séquence d'initialsiation était effacée. 
+utilisé un capteur de distance déja installé auparavant. tout cela était reié a mon arduino (puisque je n'avais pas le cable pour l'arduino preté sur le robot). Après plusieurs téléversement sur ma carte, j'ai du commetre une erreur puisque celle la ne fonctionnait plus. Comme j'éatis en vacances j'ai du attendre la rentrée pour faire "réparer" ma carte par le professeur. Je pense que la séquence d'initialisation était effacée. 
 
 
 <h2>
  <em>La construction du Robot en TD</em>
 </h2>
- Une fois l'arduino reparée, j'ai refait mon code pour le robot. Ensuite j'ai demandé au prof 2 moteurs et la carte rouge pour le controler. Ensuite j'ai soudés les 2 robots aux fils puis je les ai reliés au dominos de la petitre carte rouge. J'ai aussi connecté ENA, ENB, IN1, IN2, IN3,et IN4 à l'arduino puis la masse et le 5 volts. 
+ Une fois l'arduino reparée, j'ai refait mon code pour le robot. Ensuite j'ai demandé au prof 2 moteurs et la carte rouge pour le controler. Ensuite j'ai soudés les 2 robots aux fils puis je les ai reliés au dominos de la petitre carte rouge. J'ai aussi connecté ENA, ENB, IN1, IN2, IN3,et IN4 à l'arduino puis la masse et le 5 volts. <em>Voir Images</em>
  
- On a commencé par me donner une alimentation qui fournit du 5Volts depuis la prise. Apres avoir tout branché et connecté l'alimentation à l'arduino et au moteur sur le port 5 Volts de la carte rouge. Après l'avoir allumé et meme en connectant l'arduino à l'ordi les volts n'était suffisant pour faire demarrer les moteurs (il fallait tourner les engrenages soi-meme pour faire demarrer les moteurs!). 
- Finalement je suis passé à une batterie de 4 piles de 1.5 volt(AA) donc du 6 volts. Cela fait tourner les moteurs correctement . 
+ <img src="Images-import/IMG_20190204_202816.jpg"/>
+ <img src="Images-import/IMG_20190204_202833.jpg"/>
  
- Comme ce n'est pas facile de voir le sens des engrenages qui tournent j'ai emprunté des roues dans "l'armoir". Apres avoir téléversé mon programme et avoir connecté le capteur de distance à l'arduino notre robot avance jusqu'a rencontré un obstacle il recule pendant 1secondes puis tournent legerement(pendant 300 millis).  
+ On a commencé par me donner une alimentation qui fournit du 5Volts depuis la prise. Apres avoir tout branché et connecté l'alimentation à l'arduino et au moteur sur le port 5 Volts de la carte rouge. Après l'avoir allumé et meme en connectant l'arduino à l'ordi les volts n'était suffisant pour faire demarrer les moteurs (il fallait tourner les engrenages soi-meme pour faire démarrer les moteurs!). 
+ 
+ <img src="Images-import/IMG_20190204_203243.jpg"/>
+ 
+ Finalement je suis passé à une batterie de 4 piles de 1.5 volt(AA) donc du 6 volts. Cela fait tourner les moteurs correctement .
+ 
+ <img src="Images-import/IMG_20190204_202750.jpg"/>
+ 
+ Comme ce n'est pas facile de voir le sens des engrenages qui tournent j'ai emprunté des roues dans "l'armoire". Apres avoir téléversé mon programme et avoir connecté le capteur de distance à l'arduino notre robot avance jusqu'a rencontré un obstacle il recule pendant 1secondes puis tournent legerement(pendant 300 millis). 
+ 
+ 
+<img src="Images-import/IMG_20190204_202821.jpg"/>
+
+<em>Video bonus:Test du programme du robot avec les moteurs...</em>
+https://www.youtube.com/watch?v=ScZquNIHZiI
