@@ -265,6 +265,6 @@ utilisé un capteur de distance déja installé auparavant. tout cela était rei
 
 https://www.youtube.com/watch?v=ScZquNIHZiI
 
-et aussi le code pour les moteurs: <img src="Images-import/moteur_ex.ino"/>
+et aussi le code pour les moteurs: <img src="Images-import/moteurs_ex.ino"/>
 </em>
 
