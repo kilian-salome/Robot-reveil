@@ -228,16 +228,20 @@ Pour le moment comme on n'arrive pas à connecter 2 écrans on a seulement l'heu
 Ensuite j'ai récuperer un ancien projet que je dois démonter pour avoir des moteurs.
 
 
-<h1>Rapport du  06/01/19 de Kilian COLLIE:</h1>
+<h1>Rapport du  04/02/19 de Kilian COLLIE:</h1>
    
 <img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
 
 <h2>
- <em>Travail de vacances</em>
+ <em>Le debut du Robot pendant les vacances</em>
 </h2>
 <p>
-  
-<h3>L'avancement du projet pendant les vacances:</h3> 
+Pendant les vacances, le professeur m'a preté un mini robot pour tester un programme du robot Reveil. J'ai donc commencé a ecrire un programme qui fait avancer le petit robot, et qui si il y a un obstacxle proche, il recule puis il tourne. Pour cela j'avais  
+utilisé un capteur de distance déja installé auparavant. tout cela était reié a mon arduino (puisque je n'avais pas le cable pour l'arduino preté sur le robot). Après plusieurs téléversement sur ma carte, j'ai du commetre une erreur puisque celle la ne fonctionnait plus. Comme j'éatis en vacances j'ai du attendre la rentrée pour faire "réparer" ma carte par le professeur. Je pense que la séquence d'initialsiation était effacée. 
 
 
+<h2>
+ <em>La construction du Robot en TD</em>
+</h2>
+ Une fois l'arduino reparée, j'ai refait mon code pour le robot. Ensuite j'ai demandé au prof 2 moteurs et la carte rouge pour le controler. Ensuite j'ai soudés les 2 robots aux fils puis je les ai reliés au dominos de la petitre carte rouge. J'ai aussi connecter ENA, ENAB, IN1, IN2, IN3,et IN4 à l'arduino  
 
