@@ -243,5 +243,9 @@ utilisé un capteur de distance déja installé auparavant. tout cela était rei
 <h2>
  <em>La construction du Robot en TD</em>
 </h2>
- Une fois l'arduino reparée, j'ai refait mon code pour le robot. Ensuite j'ai demandé au prof 2 moteurs et la carte rouge pour le controler. Ensuite j'ai soudés les 2 robots aux fils puis je les ai reliés au dominos de la petitre carte rouge. J'ai aussi connecter ENA, ENAB, IN1, IN2, IN3,et IN4 à l'arduino  
-
+ Une fois l'arduino reparée, j'ai refait mon code pour le robot. Ensuite j'ai demandé au prof 2 moteurs et la carte rouge pour le controler. Ensuite j'ai soudés les 2 robots aux fils puis je les ai reliés au dominos de la petitre carte rouge. J'ai aussi connecté ENA, ENB, IN1, IN2, IN3,et IN4 à l'arduino puis la masse et le 5 volts. 
+ 
+ On a commencé par me donner une alimentation qui fournit du 5Volts depuis la prise. Apres avoir tout branché et connecté l'alimentation à l'arduino et au moteur sur le port 5 Volts de la carte rouge. Après l'avoir allumé et meme en connectant l'arduino à l'ordi les volts n'était suffisant pour faire demarrer les moteurs (il fallait tourner les engrenages soi-meme pour faire demarrer les moteurs!). 
+ Finalement je suis passé à une batterie de 4 piles de 1.5 volt(AA) donc du 6 volts. Cela fait tourner les moteurs correctement . 
+ 
+ Comme ce n'est pas facile de voir le sens des engrenages qui tournent j'ai emprunté des roues dans "l'armoir". Apres avoir téléversé mon programme et avoir connecté le capteur de distance à l'arduino notre robot avance jusqu'a rencontré un obstacle il recule pendant 1secondes puis tournent legerement(pendant 300 millis).  
