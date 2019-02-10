@@ -268,3 +268,22 @@ https://www.youtube.com/watch?v=ScZquNIHZiI
 et aussi le code pour les moteurs: https://github.com/kilian-salome/Robot-reveil/blob/master/Rapports%20seances/Images-import/moteurs_ex.ino"
 </em>
 
+
+
+<h1>Rapport du  11/02/19 de Kilian COLLIE:</h1>
+   
+<img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
+
+<h2><em>Le début de "l'encapsulage"</em></h2>
+  Avant d'aller au FabLab il faut savoir quoi imprimer... Pour cela on m'a conseillé le logiciel OpenScad. Après l'avoir installé, j'ai regardé pas mal de tutos sur Internet pour comprendre un minimum.  
+
+
+
+
+
+
+
+
+
+
+
