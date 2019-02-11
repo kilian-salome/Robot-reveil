@@ -284,6 +284,7 @@ La semaine dernière après le problème que j'ai rencontré avec ma carte Ardui
 <li>le bouton poussoir
 <li>et tous les moteurs et la petite carte rouge pour les controler
  </ul>
+<img src="Images-import/14.jpg">
 
 Au début j'ai commencé par remettre le module RTC puisque c'est la base d'une autre projet , après avoir vérifié que tout marche et bien j'ai rajouté le bluetooth puis je l'ai testé sur mon téléphone:celui-ci marchait très bien. Donc j'ai rajouté le buzzer pour activer la sonnerie, à chaque fois que j'ajoute est un élément à mon arduino je le testais et je m'assurerais de faire des branchements propres avec le minimum de fils nécessaire. Finalement j'ai rajouté le bouton poussoir pour pouvoir éteindre le réveil. Lorsque je l'ai mis en place, j'ai eu du mal à le faire fonctionner donc j'ai rajouté une petite LED pour vérifier que le bouton poussoir fonctionne bien (peut-être va-t-on la laisser dans le circuit puisque celle-ci et assez discrète et en même temps fait assez propre et professionnel).
 
@@ -303,7 +304,7 @@ Le code presque final: https://github.com/kilian-salome/Robot-reveil/blob/master
  On a donc un réveil qui déclenche le moteur et une sonnerie et qui s'éteint avec un bouton.
  La dernière étape va être d'ajouter les écrans que mon binôme est en train de préparer et le projet pourra finalement être bientot terminé!
  
-<img src="Images-import/14.jpg">
+
 
 
 
