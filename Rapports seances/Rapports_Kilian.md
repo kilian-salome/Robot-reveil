@@ -274,6 +274,28 @@ et aussi le code pour les moteurs: https://github.com/kilian-salome/Robot-reveil
    
 <img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
 
+<h2><em>L'assemblement "presque final"</em></h2>
+La semaine dernière après le problème que j'ai rencontré avec ma carte Arduino, il a fallu tout débrancher pour la donner au professeur. Ensuite il a donc fallu tout rebrancher mais entre-temps j'ai essayé les moteurs et le programme pour les moteurs donc ce n'est que aujourd'hui que j'ai rassemblé tous les éléments qu'on avait précédemment. C'est-à-dire:
+<ul>
+<li>le capteur de distance 
+<li>le bluetooth 
+<li>le module RTC
+<li>le buzzer
+<li>le bouton poussoir
+<li>et tous les moteurs et la petite carte rouge pour les controler
+ </ul>
+
+Au début j'ai commencé par remettre le module RTC puisque c'est la base d'une autre projet , après avoir vérifié que tout marche et bien j'ai rajouté le bluetooth puis je l'ai testé sur mon téléphone:celui-ci marchait très bien. Donc j'ai rajouté le buzzer pour activer la sonnerie, à chaque fois que j'ajoute est un élément à mon arduino je le testais et je m'assurerais de faire des branchements propres avec le minimum de fils nécessaire. Finalement j'ai rajouté le bouton poussoir pour pouvoir éteindre le réveil. Lorsque je l'ai mis en place, j'ai eu du mal à le faire fonctionner donc j'ai rajouté une petite LED pour vérifier que le bouton poussoir fonctionne bien (peut-être va-t-on la laisser dans le circuit puisque celle-ci et assez discrète et en même temps fait assez propre et professionnel).
+
+Ensuite on a eu un petit problème au niveau du programme puisque j'avais fait une boucle avec une condition pour activer la sonnerie du réveil mais le problème c'est que cette boucle été vérifié seulement si on était à la même minute à la même heure que l'heure programmée sur le téléphone. C'est-à-dire que si on n'éteignez pas le réveil au bout de 1 minute, le réveil s'éteignait tout seul ce qui est fort embêtant Finalement j'ai modifié le code pour rajouter une autre condition qui est une condition "déclencheuse" c'est-à-dire qu'elle va déclencher la boucle mais elle ne va pas l'arrêter au bout d'une minute.
+Maintenant que tout le code est "quasi parfait" <em> voir code ci- dessous>/em> j'ai donc tout testé et là je me suis rendu compte qu'il y avait un problème au niveau d'un moteur. J'ai donc essayé de le dépanner du mieux que j'ai pu en essayant d'afficher les boucles sur le moniteur de mon ordinateur mais rien à faire ... cela ne fonctionnait pas je me suis dit que c'était un problème d'alimentation et que 6 volts n'était peut-être pas suffisant pour le faire réagir suffisamment vite j'ai donc connecté une batterie en plus: 2 piles AA ce qui fait au total 6 piles (6 piles de 1,5 V fond donc 9 V ) . Après avoir essayé cela ça ne marche toujours pas, certes les moteurs avait une puissance plus grande mais cela ne fonctionnait pas. C'est pour ça que on va sûrement garder le 9 volts qui me paraît être le voltage nécessaire ensuite j'ai rajouté un petit interrupteur pour pouvoir arrêter le réveil où le mettre en marche. Cet interrupteur n'était peut-être pas nécessaire mais il est bien pratique dans mon cas puisqu'il me permet de ne pas débrancher les piles à chaque fois que je veux l'éteindre! J'ai dû appeler le professeur pour qu'il m'aide avec le moteur et après avoir bidouillé et testé plein de pannes courantes et bien en fait il y avait deux fils qui était échangés! Une erreur assez bête et pourtant très coriace... 
+ 
+ On a donc un réveil qui déclenche le moteur et une sonnerie et qui s'éteint avec un bouton.
+ La dernière étape va être d'ajouter les écrans que mon binôme est en train de préparer et le projet pourra finalement être bientot terminé!
+
+
+
+
 <h2><em>Le début de "l'encapsulage"</em></h2>
   Avant d'aller au FabLab il faut savoir quoi imprimer... Pour cela on m'a conseillé le logiciel OpenScad. Après l'avoir installé, j'ai regardé pas mal de tutos sur Internet pour comprendre un minimum.  
 
