@@ -101,4 +101,4 @@ L'écan OLED est connecté en utilisant les broches i2c de l'arduino (broches A4
 <h1>Rapport du 11/02: </h1>
 <p>
 <h2>Ecrans OLED</h2>
-La semaine dernière, j'ai réussi à utiliser deux écrans OLED simultanément, cependant j'arrivais seulement à afficher la même chose sur les deux écrans. Pour pouvoir utiliser les deux écrans à part, il faut initialiser l'écran avec l'adresse souhaité à chaque fois qu'on veut lui demander d'afficher quelque chose. Ainsi, j'ai pu afficher une heure lambda 
+La semaine dernière, j'ai réussi à utiliser deux écrans OLED simultanément, cependant j'arrivais seulement à afficher la même chose sur les deux écrans. Pour pouvoir utiliser les deux écrans à part, il faut initialiser l'écran avec l'adresse souhaité à chaque fois qu'on veut lui demander d'afficher quelque chose. Ainsi, j'ai pu afficher une heure lambda. Le code: 
