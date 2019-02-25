@@ -345,6 +345,6 @@ Ensuite nous allons devoir mettre du caoutchouc autour des roues pour ne pas qu'
  Pendant ce temps mon binôme et moi avons reçu les deux nouveaux écrans, ils ont l'air super et mon binôme se charge de les faire fonctionner pour pouvoir afficher l'heure et pour pouvoir afficher des yeux, le problème étant de séparer les deux écrans voir son rapport.
 
 
-De plus cette semaine j'ai modifié l'application pour qu'elle soit plus présentable et plus "design". J'ai ajouté quelque options comme le faite que l'application indique l'heure a laquelle le reveil est programmé.
+De plus cette semaine j'ai modifié l'application pour qu'elle soit plus présentable et plus "design". J'ai ajouté quelque options comme le faite que l'application indique l'heure a laquelle le reveil est programmé ou plus important le fait que l'application se connecte automatiquement au Bluetooth...
 Voir la vidéo https://www.youtube.com/watch?v=RexiRixnaQ0 pour une bréve présentation de cette nouvelle application réveil!
 
