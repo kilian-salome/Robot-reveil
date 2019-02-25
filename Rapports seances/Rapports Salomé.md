@@ -102,3 +102,12 @@ L'écan OLED est connecté en utilisant les broches i2c de l'arduino (broches A4
 <p>
 <h2>Ecrans OLED</h2>
 La semaine dernière, j'ai réussi à utiliser deux écrans OLED simultanément, cependant j'arrivais seulement à afficher la même chose sur les deux écrans. Pour pouvoir utiliser les deux écrans à part, il faut initialiser l'écran avec l'adresse souhaité à chaque fois qu'on veut lui demander d'afficher quelque chose. Ainsi, j'ai pu afficher une heure lambda. Le code: https://github.com/kilian-salome/Robot-reveil/blob/master/Rapports%20seances/Images-import/ecran_oled.ino. Le programme fonctionne correctement lorsque j'appelle ma fonction afficherHeure() dans le setup. Cependant, lorsque que je l'appelle dans le loop, le texte ne s'affiche pas en continu. Dès qu'on sort du loop, l'écran devient noir. De ce fait, l'heure s'affiche en clignotant et non pas en continu.
+
+<h1>Rapport du 25/02: </h1>
+<p>
+ <h2>Nouveaux écrans OLED</h2>
+ Nous avons reçu les nouveaux écrans OLED qui affichent du contenu en couleur au lieu de bleu et orange, ils sont également plus grands. Ils ne fonctionnent pas de la même manière. Il y a 6 ports (et non pas 2) et ces écrans communiquent avec l'arduino grâce au module SPI (et non pas i2c). </br>
+ Pour faire fonctionner un seul écran, le câblâge change, mais le code est presque similaire qu'avec les anciens écrans. J'utilise toujours la librairie adafruit. Il suffit juste de définir les différentes broches avant le setup. Cependant, pour communiquer avec les 2 écrans, c'est différent. J'ai d'abord essayé de définir un deuxième display comme ceci: 
+ <img src="Images-import/2yeux.jpg" alt="voir image  dans le fichier img-import"/>
+ mais cela n'a pas fonctionné.
+ 
