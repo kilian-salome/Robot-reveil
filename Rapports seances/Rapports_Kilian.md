@@ -322,6 +322,9 @@ Le code presque final: https://github.com/kilian-salome/Robot-reveil/blob/master
 <h2><em>L'impression 3D </em></h2>
 
 Au début je voulais faire avec le logiciel Openscad que m'avait conseillé le professeur mais en regardant plusieurs tutoriel sur Internet et des explications j'ai compris que ça allait vite être très compliqué... De plus la forme que nous désirons et une forme assez complexe puisque elle doit accueillir les moteurs et tout le système et qu'elle  doit permettre de mettre un contrepoids. Tout ca  en étant pas trop grosse pour que les roues soit de taille raisonnable. J'ai donc utilisé un logiciel qu'on avait vu l'année dernière en cours de construction mécanique Inventor de Autodesk, c'est un logiciel très facile à utiliser d'autant plus qu'on en a appris l'utilisation et avec ça j'ai plus assez rapidement visualiser la base de notre robot.<em> voir capture d'écran </em>
+
+
+
 <img src="Images-import/1.PNG">
 <img src="Images-import/2.PNG">
 <img src="Images-import/3.PNG">
