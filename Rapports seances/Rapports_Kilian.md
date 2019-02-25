@@ -322,11 +322,17 @@ Le code presque final: https://github.com/kilian-salome/Robot-reveil/blob/master
 <h2><em>L'impression 3D </em></h2>
 
 Au début je voulais faire avec le logiciel Openscad que m'avait conseillé le professeur mais en regardant plusieurs tutoriel sur Internet et des explications j'ai compris que ça allait vite être très compliqué... De plus la forme que nous désirons et une forme assez complexe puisque elle doit accueillir les moteurs et tout le système et qu'elle  doit permettre de mettre un contrepoids. Tout ca  en étant pas trop grosse pour que les roues soit de taille raisonnable. J'ai donc utilisé un logiciel qu'on avait vu l'année dernière en cours de construction mécanique Inventor de Autodesk, c'est un logiciel très facile à utiliser d'autant plus qu'on en a appris l'utilisation et avec ça j'ai plus assez rapidement visualiser la base de notre robot.<em> voir capture d'écran </em>
+<img src="Images-import/1.jpg">
+<img src="Images-import/2.jpg">
+<img src="Images-import/3.jpg">
 
 Ensuite comme il a fallu avoir des roues qui dépasse du robot j'ai  calculé qu'il nous fallait des roues d'un rayon de 7 cm (ce qui fait des roues assez grandes) , on a donc décidé de les imprimer avec une imprimante 3D aussi. Pour cela j'ai cherché sur internet à télécharger des roues qui était déjà créé et je les ai un peu modifié pour qu'elle sois parfaite avec notre moteur et avec ses engrenages.
 
 Dans la semaine nous allons aller au fablab pour imprimer les 4 objets: c'est-à-dire 2 roues et les 2 parties du robot puis la ensuite sera de fixer avec des vis.
 Ensuite nous allons devoir mettre du caoutchouc autour des roues pour ne pas qu'elle glisse sur le sol ni qu'elle dérape et de la mousse dans le robot pour tous bien caser pour que n'y ait plus rien qui bouge.
+
+<img src="Images-import/4.jpg">
+<img src="Images-import/5.jpg">
 Aujourd'hui j'ai scotché tous les branchements avec du scotch spécial comme me l'a conseillé le professeur j'ai aussi changé la carte Arduino avec une nouvelle carte Arduino plus pratique et certainement moins cher.
 
 
