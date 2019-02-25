@@ -89,7 +89,7 @@ Nous utilisons un capteur de distance qui affiche l'heure lorsqu'on s'approche �
 </br>
 Je voudrais ensuite que les minutes s'affichent sur le deuxième écran. Cependant,  je ne sais pas s'il est possible de brancher deux écrans oled sur un arduino. Il y a deux branchement à faire pour l'écran et c'est sur des ports par défaut et je n'ai pas trouvé sur internet de moyen de choisir les ports nous même.
 
-<h1>Rapport du  04/01:</h1>
+<h1>Rapport du  04/02:</h1>
 <p>
 <h2>Câblage de deux écran OLED sur un arduino</h2>  
 </br>
@@ -108,6 +108,7 @@ La semaine dernière, j'ai réussi à utiliser deux écrans OLED simultanément,
  <h2>Nouveaux écrans OLED</h2>
  Nous avons reçu les nouveaux écrans OLED qui affichent du contenu en couleur au lieu de bleu et orange, ils sont également plus grands. Ils ne fonctionnent pas de la même manière. Il y a 6 ports (et non pas 2) et ces écrans communiquent avec l'arduino grâce au module SPI (et non pas i2c). </br>
  Pour faire fonctionner un seul écran, le câblâge change, mais le code est presque similaire qu'avec les anciens écrans. J'utilise toujours la librairie adafruit. Il suffit juste de définir les différentes broches avant le setup. Cependant, pour communiquer avec les 2 écrans, c'est différent. J'ai d'abord essayé de définir un deuxième display comme ceci: 
- <img src="Images-import/2yeux.jpg" alt="voir image  dans le fichier img-import"/>
+ <img src="Images-import/code ecran couleur.png" alt="voir image  dans le fichier img-import"/>
+ 
  mais cela n'a pas fonctionné.
  
