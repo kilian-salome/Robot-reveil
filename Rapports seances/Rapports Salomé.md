@@ -110,5 +110,5 @@ La semaine dernière, j'ai réussi à utiliser deux écrans OLED simultanément,
  Pour faire fonctionner un seul écran, le câblâge change, mais le code est presque similaire qu'avec les anciens écrans. J'utilise toujours la librairie adafruit. Il suffit juste de définir les différentes broches avant le setup. Cependant, pour communiquer avec les 2 écrans, c'est différent. J'ai d'abord essayé de définir un deuxième display comme ceci: 
  <img src="Images-import/code ecran couleur.png" alt="voir image  dans le fichier img-import"/>
  
- mais cela n'a pas fonctionné.
+ mais cela n'a pas fonctionné. Une fois téléversé, le programme fonctionne qu'avec un seul display.
  
