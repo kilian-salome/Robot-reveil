@@ -365,11 +365,18 @@ Voir la vidéo https://www.youtube.com/watch?v=RexiRixnaQ0 pour une bréve prés
 <h3><em>Travail à la maison</em></h3>
 La semaine précédant cette dernière séance j'ai récupéré les deux écrans a mon binome qu'on venait de recevoir; après avoir fait beaucoup de recherches (puisque ceux-ci sont peu répandus sur le web), j'ai finalement trouvé comment ces deux écrans fonctionne. Après avoir importé la même librairie que mon binôme(SD5331) j'ai donc modifié et amélioré  le programme pour afficher des yeux et l'heure. Ensuite il a fallu comprendre comment brancher les écrans, je crois que ce n'est qu'aujourd'hui qu'on vient de comprendre qu'il y avait des sorties qui devait aller sur des ports PWM et d'autre sur des sorties spéciales!
 
+Je suis ausi allé chercher entre temps la premiere impression 3D (la moitié de notre robot) au fablab et j'ai commence a la gratter pour enelever le socle d'impression.
+
+<img src="Images-import/53276114_252019625684848_6202428530614075392_n.jpg">
+ En essayant de souder un moteur je l'ai fissuré en 2 et j'ai aussi du aller chercher un nouveau moteur vendredi chez Mr Masson.
+
+<h3><em>En TD</em></h3>
 
 En arrivant en séance de TD ce matin j'avais donc un robot réveil qui fonctionnait presque et on devait aller chercher au FabLab à midi chercher l'autre moitié du réveil... malheureusement le directeur du FabLab n'a pas pu l'imprimer comme il nous l'avait dit donc il nous a dit de repasser demain pour récupérer notre impression 3D.
 De plus après avoir essayé de tout brancher on a remarqué qu'il nous manquait un port pour cela nous avons demandé au prof et il nous à conseillé un multiplexeur, après que mon binome ait fait quelques brèves recherches, j'ai compris qu'il nous manquait un port PWM. 
 Cela nous pose  un gros problème puisque le multiplexeur qui nous avait été donné pouvait ajouter des sorties analogues or les sorties analogues ne peuvent pas faire PWM...
 Il a donc fallu tout changer et tout modifier pour prendre une carte mega, heureusement le professeur en avait encore une! On a donc tout débranché et essayé de tout rebrancher. Même en restant une demi-heure après le cours on a pas eu le temps de tout finir je vais donc finir ce soir en espérant que tout cela fonctionne; ensuite on va aller au Fablab demain en espérant que notre pièce sera imprimé et y retourner jeudi ou vendredi pour pouvoir aussi faire des trous dans la coque de notre robot pour mettre:
+
 <ul>
  <li> les écrans </li>
  <li> le capteur de distances </li> 
