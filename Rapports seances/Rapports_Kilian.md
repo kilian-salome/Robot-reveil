@@ -348,3 +348,24 @@ Ensuite nous allons devoir mettre du caoutchouc autour des roues pour ne pas qu'
 De plus cette semaine j'ai modifié l'application pour qu'elle soit plus présentable et plus "design". J'ai ajouté quelque options comme le faite que l'application indique l'heure a laquelle le reveil est programmé ou plus important le fait que l'application se connecte automatiquement au Bluetooth...
 Voir la vidéo https://www.youtube.com/watch?v=RexiRixnaQ0 pour une bréve présentation de cette nouvelle application réveil!
 
+
+
+
+
+
+
+
+<h1>Rapport du  04/03/19 de Kilian COLLIE:</h1>
+   
+<img src="https://lh3.googleusercontent.com/i5p5qfCi6jCOEdJZbtTNDbd4LNHZtXg5mqx32KyTXSkzRoiwFUgWNd5u9Ed7LjkWKQ=s128" />
+
+<h2><em></em></h2>
+
+
+
+
+
+
+
+
+
