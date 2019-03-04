@@ -112,3 +112,11 @@ La semaine dernière, j'ai réussi à utiliser deux écrans OLED simultanément,
  
  mais cela n'a pas fonctionné. Une fois téléversé, le programme fonctionne qu'avec un seul display.
  
+ <h1>Rapport du 4/03: </h1>
+<p>
+ <h2>Test du programme final</h2>
+ Kilian a réussi à faire fonctionner les écrans correctement. Ces écrans utilisent le module SPI. J'avais utilisé les mêmes sorties pour les deux écrans sauf pour la sortie CS (slave select) afin que l'arduino puisse communiquer avec les 2 écrans séparemment. Cependant, il fallait aussi utiliser des sorties différentes pour le reset. </br>
+ Après avoir soudé les moteurs, nous avons testé le programme final qui n'a pas fonctionné. Le problème venait des moteurs qui ne se mettait pas en marche au bon moment. Le dysfonctionnenment était dû aux branchements : nous avons changé les pins des moteurs pour mettre les écrans à la place qui nécessitent les ports 11 et 13 de l'arduino, ainsi que 4 PWM. Cependant, les ports ENA et ENB des moteurs nécessitent également une sortie PWM. On a finalement du changer notre carte arduino et prendre une carte mega par manque de ports PWM. </br>
+ Parallèlement, j'ai regardé si c'était possible d'utilier les ports 0 et 1 comme sortie digitale (il nous manquait juste une sortie pour pouvoir tout branché). J'ai lu qu'il était possible de le faire si l'on ne mettait pas dans notre programme Serial.begin() car les ports 0 et 1 servent à la communication avec le pc. Sur les conseils de l'enseignement, nous n'avons pas utliser ses ports. Il faut dans ce cas utiliser un multiplexeur. J'ai essayé de voir comment cela fonctionnait, mais finalement ça n'a pas servi car nous avons besoin d'une carte plus grande et donc nous ne manquons plus de ports. </br> 
+ Nous nous sommes déjà rendu au fablab pour imprimer la carrosserie de notre réveil en 3D ainsi que les roues. Nous avons finalement fait les roues par découpe au laser. 
+ </p>
