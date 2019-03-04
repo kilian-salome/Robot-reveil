@@ -379,7 +379,7 @@ Il a donc fallu tout changer et tout modifier pour prendre une carte mega, heure
     </ul>
     </ul>
     
-    Ensuite il va falloir visser les deux coques ensemble et se débrouiller pour que le robot soit equilibré avec un contrepoids... Finalement il nous reste encore beaucoup de choses à faire à cause de pas mal de petits imprévus dans ce projet on va donc essayer de se dépêcher cette semaine et de faire le rapport sur github pour pouvoir présenter notre rendu final en espérant que celui-ci soit convenable..
+Ensuite il va falloir visser les deux coques ensemble et se débrouiller pour que le robot soit equilibré avec un contrepoids... Finalement il nous reste encore beaucoup de choses à faire à cause de pas mal de petits imprévus dans ce projet on va donc essayer de se dépêcher cette semaine et de faire le rapport sur github pour pouvoir présenter notre rendu final en espérant que celui-ci soit convenable..
     
    <h3> <strong>Quoi qu'il en soit j'ai beaucoup apprécié ce projet merci à notre professeur et à mon binôme et à bientôt pour de nouveaux projets</strong> </h3>
 
